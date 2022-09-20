@@ -56,4 +56,4 @@ Might work also with earliers version of the protocol, but we highly discourage 
 
 
 
-- Telegram Uconomy support channel [https://t.me/jhnumandev](https://t.me/jhnumandev)
+- Telegram  [https://t.me/jhnumandev](https://t.me/jhnumandev)
